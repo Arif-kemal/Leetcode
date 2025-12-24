@@ -9,7 +9,6 @@ public:
         int sepet=0;
         for(int i=0;i<capacity.size();i++){
            sepet+=capacity[i];
-           printf("%d",sepet);
            if(sepet>=num){return i+1;} 
         }
         return -1;
