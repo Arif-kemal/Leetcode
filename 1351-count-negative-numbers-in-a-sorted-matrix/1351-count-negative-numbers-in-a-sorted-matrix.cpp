@@ -1,5 +1,5 @@
 class Solution {
-public:
+public://binary search kullanmaya çalış
     int countNegatives(vector<vector<int>>& grid) {
         int negatif=0,n=grid.size();
         for(int i=0;i<n;i++){
