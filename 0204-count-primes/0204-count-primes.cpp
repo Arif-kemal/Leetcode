@@ -6,14 +6,11 @@ public:
         kurdugum algoritma bunu asiyor*/
         if(n<=2)return 0;
         vector<bool>arr(n,true);//vector olusturuyor ve hepsini true diyoruz
-        for(int i=0;i<n;i++){
-            arr[i]=true;
-        }
-        for(int i=2;i*i<=n;i++){
-            if(arr[i]){for(int j=i;j*i<n;j++){arr[i*j]=false;}}
+        for(int i=2;i*i<=n;i++){//i= 2 den n koke kadar bakıcaz her iterasyonda
+            if(arr[i]){for(int j=i;j*i<n;j++){arr[i*j]=false;}}//asal degilse false
         }
         int k=0;
-        for(int i=2;i<n;i++){
+        for(int i=2;i<n;i++){//true sayisini istiyoruz
             if(arr[i])k++;
         }
         return k;
