@@ -23,4 +23,5 @@ function longestPalindrome(s: string): string {
         }  
     }
     return longest;
+    //bi daha da ingilizce kod yazmam
 };
