@@ -13,6 +13,7 @@ public:
         for(int i=2;i<n;i++){//true sayisini istiyoruz
             if(arr[i])k++;
         }
+        
         return k;
     }
 };
