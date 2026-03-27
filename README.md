@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Arif-kemal/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arif-kemal/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Arif-kemal/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arif-kemal/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,4 +21,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Arif-kemal/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arif-kemal/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arif-kemal/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 <!---LeetCode Topics End-->
