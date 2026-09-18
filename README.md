@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Arif-kemal/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Arif-kemal/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0204-count-primes](https://github.com/Arif-kemal/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0788-rotated-digits](https://github.com/Arif-kemal/Leetcode/tree/main/0788-rotated-digits/) | Medium |
@@ -47,9 +48,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Arif-kemal/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Arif-kemal/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Arif-kemal/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0796-rotate-string](https://github.com/Arif-kemal/Leetcode/tree/main/0796-rotate-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
