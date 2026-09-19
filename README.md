@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Arif-kemal/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0204-count-primes](https://github.com/Arif-kemal/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0788-rotated-digits](https://github.com/Arif-kemal/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Arif-kemal/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arif-kemal/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -71,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Arif-kemal/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [1861-rotating-the-box](https://github.com/Arif-kemal/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Arif-kemal/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
