@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Arif-kemal/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/Arif-kemal/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String Matching
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Arif-kemal/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1861-rotating-the-box](https://github.com/Arif-kemal/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
