@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/Arif-kemal/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Arif-kemal/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arif-kemal/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Arif-kemal/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/Arif-kemal/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Arif-kemal/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arif-kemal/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Arif-kemal/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0788-rotated-digits](https://github.com/Arif-kemal/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Arif-kemal/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
