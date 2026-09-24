@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Arif-kemal/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0204-count-primes](https://github.com/Arif-kemal/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Arif-kemal/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Arif-kemal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1861-rotating-the-box](https://github.com/Arif-kemal/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Arif-kemal/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Arif-kemal/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Arif-kemal/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/Arif-kemal/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +95,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Arif-kemal/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
