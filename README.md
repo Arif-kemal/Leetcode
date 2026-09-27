@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/Arif-kemal/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arif-kemal/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -116,4 +117,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Arif-kemal/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arif-kemal/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arif-kemal/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
