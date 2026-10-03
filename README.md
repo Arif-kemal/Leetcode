@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Arif-kemal/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Arif-kemal/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Arif-kemal/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0796-rotate-string](https://github.com/Arif-kemal/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arif-kemal/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/Arif-kemal/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0788-rotated-digits](https://github.com/Arif-kemal/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Arif-kemal/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Linked List
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Arif-kemal/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Arif-kemal/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Arif-kemal/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [1861-rotating-the-box](https://github.com/Arif-kemal/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Geometry
