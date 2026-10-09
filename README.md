@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Arif-kemal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arif-kemal/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Arif-kemal/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1861-rotating-the-box](https://github.com/Arif-kemal/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Arif-kemal/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arif-kemal/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Arif-kemal/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Arif-kemal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Arif-kemal/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
