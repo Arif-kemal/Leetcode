@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Arif-kemal/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1861-rotating-the-box](https://github.com/Arif-kemal/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Arif-kemal/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Arif-kemal/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arif-kemal/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Arif-kemal/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arif-kemal/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Arif-kemal/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Arif-kemal/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
