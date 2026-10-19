@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Arif-kemal/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Arif-kemal/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Arif-kemal/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Arif-kemal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arif-kemal/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Arif-kemal/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Arif-kemal/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Arif-kemal/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Arif-kemal/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Arif-kemal/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arif-kemal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
