@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Arif-kemal/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1861-rotating-the-box](https://github.com/Arif-kemal/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Arif-kemal/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Arif-kemal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Arif-kemal/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Arif-kemal/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Arif-kemal/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Arif-kemal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Arif-kemal/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Arif-kemal/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Arif-kemal/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Arif-kemal/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
