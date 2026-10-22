@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Arif-kemal/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/Arif-kemal/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/Arif-kemal/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0796-rotate-string](https://github.com/Arif-kemal/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arif-kemal/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Arif-kemal/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0394-decode-string](https://github.com/Arif-kemal/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Arif-kemal/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arif-kemal/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arif-kemal/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -236,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/Arif-kemal/Leetcode/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
