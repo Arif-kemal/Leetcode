@@ -39,7 +39,6 @@ public:
               stack.push(sol);
             }
         }
-        toplam=stack.top();
-        return toplam;
+        return stack.top();
     }
 };
