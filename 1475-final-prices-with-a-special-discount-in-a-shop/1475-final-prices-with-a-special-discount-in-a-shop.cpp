@@ -3,15 +3,14 @@ public:
     vector<int> finalPrices(vector<int>& prices) {
         int n=prices.size();
         vector<int>arif=prices;
-        int sonuc;
-        for(int i=0;i<n-1;i++){
-            sonuc=prices[i];
-            for(int j=i+1;j<n;j++){
-                if(sonuc>=prices[j]){
-                    arif[i]=sonuc-prices[j];
-                    break;
-                }
+        stack<int>st;
+        for(int i=0;i<n;i++){
+            while(!st.empty()&&prices[st.top()]>=prices[i]){
+                int j=st.top();
+                st.pop();
+                arif[j]=prices[j]-prices[i];
             }
+            st.push(i);
         }
         return arif;
     }
