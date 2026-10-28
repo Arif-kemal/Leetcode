@@ -11,7 +11,7 @@ public:
                 st.pop();
             }
             st.push(i);
-        }
+        }    
         return sonuc;
     }
 };
