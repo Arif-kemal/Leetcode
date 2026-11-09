@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Arif-kemal/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Arif-kemal/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Arif-kemal/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arif-kemal/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Arif-kemal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Arif-kemal/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Arif-kemal/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1861-rotating-the-box](https://github.com/Arif-kemal/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arif-kemal/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -169,10 +171,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Arif-kemal/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Arif-kemal/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Arif-kemal/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Arif-kemal/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Arif-kemal/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Arif-kemal/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -256,4 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Arif-kemal/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arif-kemal/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Arif-kemal/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
