@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Arif-kemal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arif-kemal/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arif-kemal/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Arif-kemal/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1861-rotating-the-box](https://github.com/Arif-kemal/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Arif-kemal/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Arif-kemal/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arif-kemal/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Arif-kemal/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arif-kemal/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arif-kemal/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arif-kemal/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arif-kemal/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -272,4 +275,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arif-kemal/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arif-kemal/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
