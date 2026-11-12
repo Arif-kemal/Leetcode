@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Arif-kemal/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0912-sort-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Arif-kemal/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1046-last-stone-weight](https://github.com/Arif-kemal/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Arif-kemal/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/Arif-kemal/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/Arif-kemal/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
