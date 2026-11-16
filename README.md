@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arif-kemal/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Arif-kemal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arif-kemal/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Arif-kemal/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arif-kemal/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Arif-kemal/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/Arif-kemal/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Arif-kemal/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Arif-kemal/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arif-kemal/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Arif-kemal/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Arif-kemal/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Arif-kemal/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Arif-kemal/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Arif-kemal/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Arif-kemal/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Arif-kemal/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Arif-kemal/Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
