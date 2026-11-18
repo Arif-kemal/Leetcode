@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Arif-kemal/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Arif-kemal/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Arif-kemal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Arif-kemal/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arif-kemal/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arif-kemal/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Arif-kemal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0392-is-subsequence](https://github.com/Arif-kemal/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0788-rotated-digits](https://github.com/Arif-kemal/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arif-kemal/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Arif-kemal/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Arif-kemal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Arif-kemal/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/Arif-kemal/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Arif-kemal/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -205,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Arif-kemal/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Arif-kemal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arif-kemal/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arif-kemal/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Arif-kemal/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -284,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Arif-kemal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arif-kemal/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/Arif-kemal/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Arif-kemal/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
